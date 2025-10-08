@@ -1,0 +1,31 @@
+# Build outputs
+out/
+target/
+build/
+bin/
+
+# Compiled classes and archives
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+
+# Logs
+*.log
+
+# IDE / Editor
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# Gradle (if ever used locally)
+.gradle/
+gradle/
+
+# OS files
+.DS_Store
+Thumbs.db
