@@ -1,5 +1,11 @@
 # School Management System
 
+Trabalho prático N1 da disciplina de Programação Orientada a Objetos do curso de Inteligência Artificial e Ciência de Dados da Universidade de Uberaba
+
+Professor: Clenio Eduardo da Silva
+
+Aluno: Raphael Felix - 5174803
+
 A simple Java application for managing students and teachers with grading functionality.
 
 ## Features
